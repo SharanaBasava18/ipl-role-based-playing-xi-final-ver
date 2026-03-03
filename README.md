@@ -99,6 +99,10 @@ The visualization notebooks validate:
 These plots justify **why each player belongs to their role**.
 
 ---
+## 🖼 Dashboard Preview
+
+![Dashboard Preview](dashboard_preview.png)
+
 
 ## 🔒 Project Status
 
