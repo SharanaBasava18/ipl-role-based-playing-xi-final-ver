@@ -90,13 +90,13 @@ Each role has **minimum workload + dominance thresholds**.
 
 ## 📈 Visualization Layer
 
-The visualization notebooks validate:
+The final dashboard notebook validates:
 - Phase dominance
 - Role separation
 - Usage vs performance
 - Final XI balance
 
-These plots justify **why each player belongs to their role**.
+These plots justify **why each player belongs to their role** and keep the presentation focused on the final XI story.
 
 ---
 ## 🖼 Dashboard Preview
